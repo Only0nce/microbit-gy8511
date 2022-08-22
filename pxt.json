@@ -1,5 +1,5 @@
 {
-    "name": "Microbit-GY8511",
+    "name": "Wind_Speed_Sensor",
     "description": "",
     "dependencies": {
         "core": "*",
